@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "402819546909",
+    "project_id": "mr-automotive-8fbfa",
+    "storage_bucket": "mr-automotive-8fbfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402819546909:android:be8904f9ca378bba36abf4",
+        "android_client_info": {
+          "package_name": "com.dev.automotive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkwA_0Mh1OfT52k3jqh6i1I07WNriA2kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402819546909:android:c4f71d283183c1a036abf4",
+        "android_client_info": {
+          "package_name": "com.example.mr_automotive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkwA_0Mh1OfT52k3jqh6i1I07WNriA2kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

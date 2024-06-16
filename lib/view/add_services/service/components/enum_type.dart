@@ -1,0 +1,1 @@
+enum MapScreenType{service,product}
